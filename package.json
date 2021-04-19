@@ -1,0 +1,21 @@
+{
+    "name": "codel",
+    "displayName": "Codel",
+    "description": "A Theme For a Coded Life",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Codel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Codel-color-theme.json"
+            }
+        ]
+    }
+}
