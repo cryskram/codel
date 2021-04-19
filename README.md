@@ -1,17 +1,62 @@
-# README
-## This is the README for your extension "codel"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# CODEL
+## A Theme For Coded Life - By GNVageesh
+This is my very first Visual Studio Code Theme. Inspiration taken from all the themes i used. 
+**But wasn't Happy or didn't stick to one particular theme. If it is the same in your case then have this theme in your Coded Life**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Settings to have
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+I have used A font called VectorMono, an alternative to OperatorMono. Get it from [here](https://rubjo.github.io/victor-mono/) and finally install it.<br>
+Then add the following lines of code to the `settings.json` file
+
+```
+{
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": true,
+}
+```
 
 ### Preview
 
-![JavaScript](https://imgur.com/DfwCLPX)
+- Complete look and feel
 
-**Enjoy!**
+![CODE](previews/overall.png)
+
+- JavaScript
+
+![CODE](previews/js.png)
+
+- CSS
+
+![CODE](previews/css.png)
+
+- JAVA
+
+![CODE](previews/Java.png)
+
+- Python
+
+![CODE](previews/python.png)
+
+- Flutter/Dart
+
+![CODE](previews/flutter.png)
+
+- JSON
+
+![CODE](previews/json.png)
+
+- C/C++
+
+![CODE](previews/c.png)
+
+- MarkDown
+
+![CODE](previews/md.png)
+
+### ChangeLog
+
+_*v1.0*_ - Initial Release
+
+### License
+
+Refer to the license file [here](License.txt)

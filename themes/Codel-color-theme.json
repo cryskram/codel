@@ -4,10 +4,13 @@
 	"colors": {
 		"editor.background": "#1B1D1F",
 		"list.warningForeground": "#F67D3C",
+		"editorSuggestWidget.background": "#1B1D1F",
+		"editorSuggestWidget.foreground": "#fff1d0",
+		"editorSuggestWidget.highlightForeground": "#0496ff",
 		"list.errorForeground": "#f06464",
 		"activityBar.inactiveForeground": "#12B0E8",
-		"statusBar.background": "#00bbf9",
-		"statusBar.foreground": "#000000",
+		"statusBar.background": "#2176ff",
+		"statusBar.foreground": "#ffffff",
 		"statusBar.border": "#ffffff",
 		"activityBar.foreground": "#fffb00",
 		"activityBar.background": "#1B1D1F",
@@ -16,11 +19,11 @@
 		"sideBar.border": "#ffffff",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"button.background": "#12B0E8",
+		"button.background": "#2176ff",
 		"errorForeground": "#F36969",
 		"dropdown.background": "#1B1D1F",
 		"dropdown.border": "#ffffff",
-		"button.foreground": "#000000",
+		"button.foreground": "#ffffff",
 		"scrollbarSlider.activeBackground": "#fff",
 		"scrollbarSlider.background": "#fff",
 		"tab.inactiveBackground": "#1b1d1f62",
@@ -303,7 +306,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold underline",
-				"foreground": "#b6ccfe"
+				"foreground": "#0496ff"
 			}
 		},
 		{
@@ -327,15 +330,27 @@
 			}
 		},
 		{
-			"name": "Source Python",
+			"name": "Sources",
 			"scope": [
 				"source.python",
 				"source.java",
-				"meta.body.function.definition",
+				"meta.body.function.definition.cpp",
+				"variable.other.global",
+				"meta.function.definition.cpp"
 			],
 			"settings": {
 				"foreground": "#A6F174",
 				"fontStyle": "bold italic"
+			}
+		},
+		{
+			"name": "Dart source",
+			"scope": [
+				"source.dart",
+			],
+			"settings": {
+				"foreground": "#3da5d9",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -456,7 +471,8 @@
 		{
 			"name": "Attributes",
 			"scope": [
-				"entity.other.attribute-name"
+				"entity.other.attribute-name",
+				"variable.other.local"
 			],
 			"settings": {
 				"foreground": "#C792EA"
