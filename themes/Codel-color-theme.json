@@ -5,7 +5,7 @@
 		"editor.background": "#1B1D1F",
 		"list.warningForeground": "#F67D3C",
 		"editorSuggestWidget.background": "#1B1D1F",
-		"editorSuggestWidget.foreground": "#fff1d0",
+		"editorSuggestWidget.foreground": "#ffffff",
 		"editorSuggestWidget.highlightForeground": "#0496ff",
 		"list.errorForeground": "#f06464",
 		"activityBar.inactiveForeground": "#12B0E8",

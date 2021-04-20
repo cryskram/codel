@@ -18,6 +18,10 @@
         "GNV",
         "gn vageesh",
         "codel",
+        "legos",
+        "inspiration",
+        "superhero",
+        "rainbow",
         "mixture",
         "colors",
         "beauty",
@@ -26,6 +30,21 @@
     "categories": [
         "Themes"
     ],
+    "bugs": {
+        "url": "https://github.com/GNVageesh/codel/issues",
+        "email": "vageeshgn2005@gmail.com"
+    },
+    "author": {
+        "name": "GNVageesh",
+        "email": "vageeshgn2005@gmail.com",
+        "url": "https://github.com/GNVageesh"
+    },
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=GNVageesh.codel",
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#1B1D1F",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -34,5 +53,22 @@
                 "path": "./themes/Codel-color-theme.json"
             }
         ]
-    }
+    },
+    "badges": [
+        {
+            "url": "https://img.shields.io/visual-studio-marketplace/v/GNVageesh.codel",
+            "href": "https://github.com/GNVageesh",
+            "description": "Version of Codel"
+        },
+        {
+            "url": "https://img.shields.io/github/stars/GNVageesh/codel",
+            "href": "https://github.com/GNVageesh",
+            "description": "Git Stars for Codel Theme"
+        },
+        {
+            "url": "https://img.shields.io/badge/license-MIT-green",
+            "href": "https://github.com/GNVageesh",
+            "description": "MIT License"
+        }
+    ]
 }
