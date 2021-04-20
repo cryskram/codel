@@ -55,7 +55,9 @@ Then add the following lines of code to the `settings.json` file
 
 ### ChangeLog
 
-_*v1.0*_ - Initial Release
+_*v1.1.0*_ - Preview change Release
+
+_*v1.0.0*_ - Initial Release
 
 ### License
 
