@@ -2,7 +2,7 @@
     "name": "codel",
     "displayName": "Codel",
     "description": "A Theme For A Coded Life",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "publisher": "GNVageesh",
     "icon": "icon.png",
     "repository": {
@@ -69,6 +69,11 @@
             "url": "https://img.shields.io/badge/license-MIT-green",
             "href": "https://github.com/GNVageesh",
             "description": "MIT License"
+        },
+        {
+            "url": "![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/GNVageesh.codel)",
+            "href": "https://github.com/GNVageesh",
+            "description": "Total Installs"
         }
     ]
 }

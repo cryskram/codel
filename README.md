@@ -1,4 +1,5 @@
-# CODEL
+# CODEL 
+![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/GNVageesh.codel)
 ## A Theme For Coded Life - By GNVageesh
 This is my very first Visual Studio Code Theme. Inspiration taken from all the themes i used. 
 **But wasn't Happy or didn't stick to one particular theme. If it is the same in your case then have this theme in your Coded Life**
@@ -54,6 +55,8 @@ Then add the following lines of code to the `settings.json` file
 ![CODE](previews/md.png)
 
 ### ChangeLog
+
+_*v1.1.2*_ - Style Change Release
 
 _*v1.1.1*_ - Minor Release
 

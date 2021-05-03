@@ -1,5 +1,7 @@
 # Change Log
 
+- 2021-05-03 Style Changes v1.1.2
+
 - 2021-04-20 Minor release v1.1.1
 
 - 2021-04-20 Preview change release v1.1.0
