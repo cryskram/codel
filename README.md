@@ -56,6 +56,8 @@ Then add the following lines of code to the `settings.json` file
 
 ### ChangeLog
 
+_*v1.1.3*_ - String Color ReChange
+
 _*v1.1.2*_ - Style Change Release
 
 _*v1.1.1*_ - Minor Release

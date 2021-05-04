@@ -406,7 +406,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#4DBDF5",
+				"foreground": "#BDFE0B",
 				"fontStyle": ""
 			}
 		},
